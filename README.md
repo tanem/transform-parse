@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/tanem/transform-parse/badge.png)](https://coveralls.io/r/tanem/transform-parse)
 [![NPM version](https://badge.fury.io/js/transform-parse.svg)](http://badge.fury.io/js/transform-parse)
 
-A transform stream that parses an incoming stream based on a delimiter.
+A transform stream that parses an incoming stream as JSON.
 
 
 ## Installation
