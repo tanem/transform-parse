@@ -1,0 +1,37 @@
+{
+  "name": "transform-parse",
+  "version": "0.1.0",
+  "description": "A transform stream that parses an incoming stream.",
+  "main": "index.js",
+  "homepage": "https://github.com/tanem/transform-parse",
+  "bugs": {
+    "url": "http://github.com/tanem/transform-parse/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tanem/transform-parse.git"
+  },
+  "scripts": {
+    "test": "make test-coveralls"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "keywords": [
+    "parse",
+    "stream",
+    "transform"
+  ],
+  "author": {
+    "name": "Tane Morgan",
+    "url": "http://github.com/tanem"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "expect.js": "^0.3.1",
+    "jshint": "^2.5.1",
+    "coveralls": "^2.10.1",
+    "istanbul": "^0.3.0"
+  }
+}
