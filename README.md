@@ -18,11 +18,11 @@ $ npm install transform-parse --save
 
 ```js
 var stream = require('stream');
-var Parse = require('transform-parse');
+var parse = require('transform-parse');
 var source = stream.PassThrough();
 var dest = stream.PassThrough({ objectMode: true });
 
-source.pipe(Parse()).pipe(dest);
+source.pipe(parse()).pipe(dest);
 source.end(new Buffer('{ "foo": "bar" }'));
 
 dest.on('data', function(obj){
@@ -34,7 +34,7 @@ dest.on('data', function(obj){
 
 ## API
 
-### var parse = TransformParse()
+### var parse = transformParse()
 
 Initialise a new `TransformParse`.
 

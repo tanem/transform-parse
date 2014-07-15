@@ -1,13 +1,13 @@
 var expect = require('expect.js');
 var stream = require('stream');
-var TransformParse = require('../lib/transform-parse');
+var transformParse = require('../lib/transform-parse');
 
 describe('Transform parse', function(){
 
   var parse;
 
   beforeEach(function(){
-    parse = TransformParse();
+    parse = transformParse();
   });
 
   it('should emit an error if an error occurs when parsing', function(done){

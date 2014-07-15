@@ -1,7 +1,11 @@
+## v0.2.0
+
+ * Change how the stream can be created
+ 
 ## v0.1.2
 
  * Ocd
- 
+
 ## v0.1.1
 
  * Update description
