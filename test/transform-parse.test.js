@@ -1,4 +1,5 @@
 var expect = require('expect.js');
+var sinon = require('sinon');
 var stream = require('stream');
 var transformParse = require('../lib/transform-parse');
 
@@ -10,11 +11,13 @@ describe('Transform parse', function(){
     parse = transformParse();
   });
 
-  it('should emit an error if an error occurs when parsing', function(done){
+  it('should log an error if an error occurs when parsing', function(done){
+    var consoleErrorStub = sinon.stub(console, 'error');
     var source = stream.PassThrough();
     source.pipe(parse);
-    parse.on('error', function(err){
-      expect(err).not.to.be(undefined);
+    parse.on('data', function(){});
+    parse.on('end', function(){
+      expect(consoleErrorStub.args[0]).to.eql(['error parsing: %s', 'foo']);
       done();
     });
     source.end(new Buffer('foo'));
