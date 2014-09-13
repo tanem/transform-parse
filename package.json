@@ -1,6 +1,6 @@
 {
   "name": "transform-parse",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "A transform stream that parses an incoming stream as JSON.",
   "main": "index.js",
   "homepage": "https://github.com/tanem/transform-parse",

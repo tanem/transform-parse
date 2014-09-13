@@ -1,3 +1,7 @@
+## v1.0.0
+
+ * v1.0.0
+ 
 ## v0.3.0
 
  * Log errors instead of emitting an error event
