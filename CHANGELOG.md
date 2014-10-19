@@ -1,3 +1,7 @@
+## v1.0.1 / 2014-10-19
+
+ * ([c0109cb](https://github.com/tanem/transform-parse/commit/c0109cb0256d11b1e0b00ac978936080e9748647)) Add commit links to changelog (fixes [#1](https://github.com/tanem/transform-parse/issues/1))
+
 ## v1.0.0 / 2014-09-13
 
  * ([c5de39d](https://github.com/tanem/transform-parse/commit/c5de39dc2d6541ce5587c4a87e474410e0869df7)) v1.0.0
