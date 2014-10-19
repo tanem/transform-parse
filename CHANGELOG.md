@@ -1,27 +1,28 @@
-## v1.0.0
+## v1.0.0 / 2014-09-13
 
- * v1.0.0
- 
-## v0.3.0
+ * ([c5de39d](https://github.com/tanem/transform-parse/commit/c5de39dc2d6541ce5587c4a87e474410e0869df7)) v1.0.0
 
- * Log errors instead of emitting an error event
- 
-## v0.2.1
+## v0.3.0 / 2014-08-22
 
- * Remove redundant code
- 
-## v0.2.0
+ * ([28520d7](https://github.com/tanem/transform-parse/commit/28520d7f890a711b21f0c514e4f624051fc6fb0d)) Log errors instead of emitting an error event
 
- * Change how the stream can be created
+## v0.2.1 / 2014-07-15
 
-## v0.1.2
+ * ([8545aaa](https://github.com/tanem/transform-parse/commit/8545aaa9d8346197ef7c8e36fb2874a17941547c)) Remove redundant code
 
- * Ocd
+## v0.2.0 / 2014-07-15
 
-## v0.1.1
+ * ([8831454](https://github.com/tanem/transform-parse/commit/883145425256dbca8c5ba8a3aa60c1fba8240177)) Change how the stream can be created
+ * ([c260877](https://github.com/tanem/transform-parse/commit/c2608777c4034599b644c6fffe2cf222ce8ef7e2)) Change how the stream can be created
 
- * Update description
+## v0.1.2 / 2014-07-14
 
-## v0.1.0
+ * ([6c47f51](https://github.com/tanem/transform-parse/commit/6c47f51a7e2a357cffa5f56f77250ce77a0de00d)) Ocd
 
- * Initialised
+## v0.1.1 / 2014-07-14
+
+ * ([905739b](https://github.com/tanem/transform-parse/commit/905739b91f9ce241671f422389cc1347468ee5b5)) Update description
+
+## v0.1.0 / 2014-07-14
+
+ * ([5fb68f2](https://github.com/tanem/transform-parse/commit/5fb68f21f7908e36122235c8a854111b73810a45)) Initialised
