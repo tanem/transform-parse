@@ -6,13 +6,11 @@
 
 A transform stream that parses an incoming stream as JSON.
 
-
 ## Installation
 
-```sh
+```
 $ npm install transform-parse --save
 ```
-
 
 ## Example
 
@@ -31,26 +29,23 @@ dest.on('data', function(obj){
 });
 ```
 
-
 ## API
 
 ### var parse = transformParse()
 
 Initialise a new `TransformParse`.
 
-
 ## Testing
 
-```sh
+```
 $ make test
 ```
 
 To generate a coverage report:
 
-```sh
+```
 $ make test-cov
 ```
-
 
 ## Credits
 
