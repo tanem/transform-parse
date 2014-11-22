@@ -8,7 +8,7 @@ A transform stream that parses an incoming stream as JSON.
 
 ## Installation
 
-```
+```sh
 $ npm install transform-parse --save
 ```
 
@@ -37,13 +37,13 @@ Initialise a new `TransformParse`.
 
 ## Testing
 
-```
+```sh
 $ make test
 ```
 
 To generate a coverage report:
 
-```
+```sh
 $ make test-cov
 ```
 
