@@ -1,3 +1,7 @@
+## v1.0.3 / 2014-11-22
+
+ * ([0bd92bd](https://github.com/tanem/transform-parse/commit/0bd92bd9af2484d564dc2b1d2cb6af9270092418)) Update README
+
 ## v1.0.2 / 2014-10-31
 
  * ([3de7148](https://github.com/tanem/transform-parse/commit/3de71485fb9b924cc8ed76a775607d18a0e019bc)) Tidy up README
