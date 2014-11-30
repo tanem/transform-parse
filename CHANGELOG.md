@@ -1,3 +1,7 @@
+## v1.0.5 / 2014-11-30
+
+ * ([09c2f0c](https://github.com/tanem/transform-parse/commit/09c2f0c71b9384e23c141328aa6cf38196bc5413)) Remove Makefile
+
 ## v1.0.4 / 2014-11-30
 
  * ([29717d4](https://github.com/tanem/transform-parse/commit/29717d43083fef365f71d63157179aa95a4fb706)) Try using NPM scripts instead of make
