@@ -1,3 +1,7 @@
+## v1.0.4 / 2014-11-30
+
+ * ([29717d4](https://github.com/tanem/transform-parse/commit/29717d43083fef365f71d63157179aa95a4fb706)) Try using NPM scripts instead of make
+
 ## v1.0.3 / 2014-11-22
 
  * ([0bd92bd](https://github.com/tanem/transform-parse/commit/0bd92bd9af2484d564dc2b1d2cb6af9270092418)) Update README
