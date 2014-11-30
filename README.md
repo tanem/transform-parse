@@ -38,15 +38,11 @@ Initialise a new `TransformParse`.
 ## Testing
 
 ```sh
-$ make test
+$ npm run test-spec
 ```
 
 To generate a coverage report:
 
 ```sh
-$ make test-cov
+$ npm run test-cov
 ```
-
-## Credits
-
- * [urlgrey](https://github.com/cainus/urlgrey) for the Makefile inspiration.
